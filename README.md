@@ -10,7 +10,7 @@ A CSV set of stream data including:
 - Stream Supply Temperature (T<sub>S</sub>)
 - Stream Target Temperature (T<sub>T</sub>)
 
-And a minimum temperature difference $\Delta T_{min}$
+And a minimum temperature difference ∆T<sub>min</sub>
 
 ### Output:
 Currently, PyPinch can **_calculate_**, **_plot_**, and **_export as CSV_** the following:
