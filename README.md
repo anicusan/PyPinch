@@ -4,6 +4,8 @@
 
 PyPinch is a lightweight Python module that applies Pinch Technology principles, analysing a given set of stream data to find the Maximum Energy Recovery (MER) target.
 
+A live version of a Jupyter Notebook using the code is available [via MyBinder](https://mybinder.org/v2/gh/anicusan/PyPinch/master?filepath=tutorial%2F).
+
 ### Input: 
 A CSV set of stream data including:
 - Stream Enthalpy CP (kW / ºC)
