@@ -11,7 +11,7 @@ A CSV set of stream data including:
 And a minimum temperature difference $\Delta T_{min}$
 
 ### Output:
-Currently, PyPinch can _calculate_, _plot_, and _export as CSV_ the following:
+Currently, PyPinch can _calculate_**, _plot_**, and _export as CSV_** the following:
 - The Temperature Interval Diagram
 - The Problem Table
 - The Heat Cascade
