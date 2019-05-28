@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anicusan/PyPinch/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anicusan/PyPinch/master?filepath=tutorial%2F)
 
 # PyPinch: a Python-based Pinch Analyser
 
